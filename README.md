@@ -6,7 +6,7 @@ Soy un Desarrollador Full-stack junior con experiencia en Desarrollo web, Me esp
 
  Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrolar y seguir nutriendo mis habilidades como Programador
 
- Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responser!
+ Ante cualquiera de tus consultas podes comunicarte conmigo, estare encantado de responder!
 
  *informacion de contacto:*
 
