@@ -2,7 +2,7 @@
 
 **hola soy gonzalo 😊!**
 
-Soy un Desarrollador Full-stack junior con experiencia en Desarrollo web, Me especializo en React, javascript, MongoDB y SQL. Tuve la oportunidad de hacer pasantia en Social Media Lab Donde aprendi y mejore muchisimo como programador tanto con mis practicas y conocimientos tecnicos como mi trabajo en equipo mas todo lo que conlleva llevar un proyecto real.
+Soy un Desarrollador Full-stack con experiencia en Desarrollo web, Me especializo en React, javascript, MongoDB y SQL. Tuve la oportunidad de hacer pasantia en Social Media Lab Donde aprendi y mejore muchisimo como programador tanto con mis practicas y conocimientos tecnicos como mi trabajo en equipo mas todo lo que conlleva llevar un proyecto real.
 
  Me encuentro ancioso por seguir creciendo y poder formar parte de un equipo para poder desarrolar y seguir nutriendo mis habilidades como Programador
 
